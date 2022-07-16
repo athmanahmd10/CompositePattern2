@@ -1,0 +1,3 @@
+        StringBuilder xmlStringBuilder = new StringBuilder();
+        xmlStringBuilder.append(myString);
+        ByteArrayInputStream input = new ByteArrayInputStream(xmlStringBuilder.toString().getBytes("UTF-8"));

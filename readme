@@ -1,0 +1,10 @@
+Ce projet contient deux parties:
+
+Première partie
+Cette partie consisite à prendre le contenu d'un dossier à partir d'un chemin et transformer cela sous format XML.
+
+Comment cela va se faire?
+ - Nous allons utiliser les fonctions de java qui nous permettent de manipuler les dossiers et fichiers;
+ - Puis nous allons transformer en chaine de caractères, avec des balise XML et qui contiennent les propriétés suivantes:
+    * Le type de l'élément;
+    * Le nom du du fichier ou du dossier.
